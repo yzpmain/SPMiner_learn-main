@@ -5,13 +5,13 @@ log-*/
 *.p
 *.png
 plots/
-data/
 runs/
 results/
 *.sw?
 orca/
-core
-deepsnap-experimental/
 ckpt/
 visuals/
 out/
+.qoder/
+.vscode/
+README.md
