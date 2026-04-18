@@ -78,4 +78,3 @@ def parse_encoder(parser, arg_str=None):
 
     # 注意：这里不直接 parse，统一由外部主程序解析。
     #return enc_parser.parse_args(arg_str)
-

@@ -1,1 +1,1 @@
-python3 -m subgraph_matching.train
+python -m subgraph_matching.train
